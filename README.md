@@ -1,7 +1,6 @@
 <p align="center"><img src="https://audionetwork.oss-cn-beijing.aliyuncs.com/news.png" /></p>
 <h1 align="center">马一记 - Markone</h1>
 <p align="center">🦋巴拉巴拉小魔仙～🦋</p>
-<p align="center">为了毕设 ，我也是拼了，前端后端服务器一并搞了，全能的凤琦～</p>
 <p align="center">
    <a href="https://github.com/fanceenyoung/markone/releases"><img src="https://audionetwork.oss-cn-beijing.aliyuncs.com/pagedemo.png"></a>
    <a target="_blank" href="http://www.baidu.com"><img src="https://img.shields.io/badge/website-_simpread.ksria.com-1DBA90.svg"></a>
@@ -64,8 +63,7 @@
   *
 
 #### 联系信息：
-任何痛点、idea, 邮件：yangfengqi@xuetangx.com
-
+任何痛点、idea, 邮件：Markonenote@163.com
 #### 许可：
 [![license-badge]][license-link]
 
