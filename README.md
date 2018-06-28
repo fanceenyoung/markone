@@ -1,6 +1,5 @@
-<p align="center"><img src="https://audionetwork.oss-cn-beijing.aliyuncs.com/news.png" /></p>
-<h1 align="center">马一记 - Markone</h1>
-<p align="center">🦋巴拉巴拉小魔仙～🦋</p>
+<h1 align="center"> 馬一記 - Markone</h1>
+<p align="center">Learning Without A Stop.</p>
 <p align="center">
    <a href="https://github.com/fanceenyoung/markone/releases"><img src="https://audionetwork.oss-cn-beijing.aliyuncs.com/pagedemo.png"></a>
    <a target="_blank" href="http://www.baidu.com"><img src="https://img.shields.io/badge/website-_simpread.ksria.com-1DBA90.svg"></a>
@@ -13,10 +12,10 @@
 * 想知道更多功能，请看wiki [帮助中心](https://github.com/fanceenyoung/markone/wiki) 。
 
 #### 如何使用：
-`马一记`专门为在线看视频做的笔记软件，基于chrome的YouTube插件渠道某一时间段的字幕、截图，并添加文本笔记，节省人们在不同软件之间的跳转，把专注力放在看视频本身上。
-在浏览器右上角显示 ![Imgur](https://audionetwork.oss-cn-beijing.aliyuncs.com/icon_small.png) ，点击启动：
+`马一记`专门为在线看视频做的笔记软件，基于Chrome扩展程序，将某一时间段的字幕、截图自动记下，并可添加文本笔记，省去在不同软件之间的跳转，让用户把专注力放在视频本身上。
+安装插件后，点击浏览器右上角马一记logo ![Imgur](https://audionetwork.oss-cn-beijing.aliyuncs.com/icon_small.png) ，即可启动：
 - 点击浏览器右上角 `红色icon`；
-- 快捷键；（默认为 双击 <kbd>A</kbd> )
+- 快捷键：Mac-"Command + Shift + M"，Windows-"Ctrl + Shift + M"
 
 #### 插件特点：
 - 字幕抓取：
@@ -29,20 +28,20 @@
   用户可输入文本型笔记
 
 - 进度条：
-  用户记录的时间点，颜色变化，hover上去可以显示所记录内容
+  可视化展示用户记录的时间点，颜色变化，hover上去可以显示所记录内容
 
 #### 笔记编辑特点：
 - 模块化显示：
-  模块化显示
+  模块化显示，清新俏皮
 
 - 时间轴跳转：
   可跳转回到视频特定播放时间点
 
 - 星标显示：
-  给某一条文字加星🌟，几种浏览星标文本
+  给某一条文字加星🌟，方便迅速浏览重要内容
 
 - 快速导出：
-  快速导出笔记
+  快速导出笔记，方便用户在其常用笔记本进行再次编辑
 
 #### 功能图：
 ![功能一览](https://audionetwork.oss-cn-beijing.aliyuncs.com/mayiji.png)
@@ -63,7 +62,7 @@
   *
 
 #### 联系信息：
-任何痛点、idea, 邮件：Markonenote@163.com
+任何痛点、idea、反馈、意见, 邮件：Markonenote@163.com，或搜索微信公众号Markonenote在后台直接留言。
 #### 许可：
 [![license-badge]][license-link]
 
