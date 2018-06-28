@@ -1,0 +1,7 @@
+# basic
+.idea/
+**/.DS_Store
+.swp
+
+# for js
+node_modules/**
