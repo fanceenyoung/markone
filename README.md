@@ -53,9 +53,9 @@ Mark One通过Chrome拓展提取视频字幕文件，将字幕/语义识别自�
 
 
 #### 特别鸣谢：
-玩转Chrome拓展程序的前端工程师：我问下他git的
-超好沟通追求细节笔记页面前端工程师：<a href ="https://github.com/Tanbinghua">@Tanbinghua</a>
-搞定一切后台的后端工程师：<a href ="https://github.com/zhangtianyi1234">@zhangtianyi1234</a>
+* 玩转Chrome拓展程序的前端工程师：我问下他git的
+* 超好沟通追求细节笔记页面前端工程师：<a href ="https://github.com/Tanbinghua">@Tanbinghua</a>
+* 搞定一切后台的后端工程师：<a href ="https://github.com/zhangtianyi1234">@zhangtianyi1234</a>
 
 #### 开发参考：
 * [google官方文档](https://developer.chrome.com/extensions/getstarted)
