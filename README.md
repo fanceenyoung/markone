@@ -1,9 +1,12 @@
-<h1 align="center"> 馬一記 - Markone</h1>
-<p align="center">Learning Without A Stop.</p>
+<h1 align="center"> Mark One 马一记</h1>
+<h3 align="center">The Simplest Way to Take Notes for Online Videos</h3>
+<h3 align="center">基于Chrome拓展应用的最简单的视频笔记产品</h3>
 <p align="center">
    <a href="https://github.com/fanceenyoung/markone/releases"><img src="https://audionetwork.oss-cn-beijing.aliyuncs.com/pagedemo.png"></a>
    <a target="_blank" href="http://www.baidu.com"><img src="https://img.shields.io/badge/website-_simpread.ksria.com-1DBA90.svg"></a>
 </p>
+<p>
+Mark One通过Chrome拓展提取视频字幕文件，将字幕/语义识别自动生成的字幕转化为笔记，可在视频播放页面的一键截图、记笔记等功能，满足用户在线学习时的轻量化笔记需求，支持YouTube及Bilibili。自2018.8月登录Chrome应用商店以来，累计下载数已300+，浏览数超过5000+，获得小众软件等媒体报道。</p>
 
 ***
 
@@ -45,6 +48,14 @@
 
 #### 功能图：
 ![功能一览](https://audionetwork.oss-cn-beijing.aliyuncs.com/mayiji.png)
+
+
+
+
+#### 特别鸣谢：
+玩转Chrome拓展程序的前端工程师：我问下他git的
+超好沟通追求细节笔记页面前端工程师：<a href ="https://github.com/Tanbinghua">@Tanbinghua</a>
+搞定一切后台的后端工程师：<a href ="https://github.com/zhangtianyi1234">@zhangtianyi1234</a>
 
 #### 开发参考：
 * [google官方文档](https://developer.chrome.com/extensions/getstarted)
