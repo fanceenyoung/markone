@@ -1,12 +1,9 @@
 <h1 align="center">Mark One 马一记</h1>
 <h3 align="center">The Simplest Way to Take Notes for Online Videos</h3>
 <h3 align="center">针对在线视频，基于Chrome拓展应用的最简单的笔记类应用</h3>
-<p align="center">
-   <a href="https://github.com/fanceenyoung/markone/releases"><img src="https://audionetwork.oss-cn-beijing.aliyuncs.com/pagedemo.png"></a>
-   <a target="_blank" href="http://www.baidu.com"><img src="https://img.shields.io/badge/website-_simpread.ksria.com-1DBA90.svg"></a>
+<p align="center"><img src="https://audionetwork.oss-cn-beijing.aliyuncs.com/markone/Promotion_image.png">
 </p>
-<p>
-Mark One通过Chrome拓展提取视频字幕文件，将字幕/语义识别自动生成的字幕转化为笔记，可在视频播放页面的一键截图、记笔记等功能，满足用户在线学习时的轻量化笔记需求，支持YouTube及Bilibili。自2018.8月登录Chrome应用商店以来，累计下载数已350+，浏览数超过5000+，获得小众软件等媒体报道。</p>
+Mark One通过Chrome拓展提取视频字幕文件，将字幕/语义识别自动生成的字幕转化为笔记，可在视频播放页面的一键截图、记笔记等功能，满足用户在线学习时的轻量化笔记需求，支持YouTube及Bilibili。自2018.8月登录Chrome应用商店以来，累计下载数已350+，浏览数超过5000+，获得小众软件等媒体报道。
 
 ***
 你是否遇到过这样的问题，看到一些有意思的点，想稍微做点记录，可是吧，懒得打字，懒得复制粘贴，不知道记在哪里，又或是身边没有纸笔，就算视频可以收藏分组，但其实并不需要mark整个视频，而且往往收藏了也没有再看过，于是乎就这样错过了一个个有意思的地方。
@@ -16,17 +13,24 @@ Mark One通过Chrome拓展提取视频字幕文件，将字幕/语义识别自�
 实现方式：虽然通过移动端看视频已经占到大约70%，但介于App本身的封闭，我们只能采用网页端Chrome拓展应用的形式，另外由于每个网站的API都要单独做，介于开发能力的限制，我们选择了在海外使用人数最多的YouTube以及我们的Bilibili。
 
 #### 产品功能介绍：
+<p align="center"><img src="https://audionetwork.oss-cn-beijing.aliyuncs.com/markone/screenshot_markone.png">
+</p>
 具体来说，装了这个Chrome拓展后，在插件端：
 1. 点击开始、结束，自动抓取这一时间段的字幕，不用打字了哦也~
 2. 一件截图~
 3. 在底部文本输入框直接输入笔记，不用切换笔记软件
 4. 进度条显示笔记预览图，点击跳转播放位置
 
+<p align="center"><img src="https://audionetwork.oss-cn-beijing.aliyuncs.com/markone/extension_intro_cnhui.png">
+</p>
+
 在笔记端，可以：
 1. 查看所有在扩展程序中记录的内容；
 2. 对某一条目内容进行高亮标记，重点记忆；
 3. 双击模块进行编辑；
 4. 一键复制所有内容，方便导出。
+<p align="center"><img src="https://audionetwork.oss-cn-beijing.aliyuncs.com/markone/Chrome_markone_notes.png">
+</p>
 
 ***
 #### 如何安装扩展应用：
