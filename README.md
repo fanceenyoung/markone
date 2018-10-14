@@ -15,6 +15,7 @@ Mark One通过Chrome拓展提取视频字幕文件，将字幕/语义识别自�
 #### 产品功能介绍：
 <p align="center"><img src="https://audionetwork.oss-cn-beijing.aliyuncs.com/markone/screenshot_markone.png">
 </p>
+
 具体来说，装了这个Chrome拓展后，在插件端：
 1. 点击开始、结束，自动抓取这一时间段的字幕，不用打字了哦也~
 2. 一件截图~
